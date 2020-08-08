@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Part" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAQABCA=</HashCode>
+      <FileName>Part.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coordinates" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQGAAAAIAAAAAAAAABgAGAAAAA=</HashCode>
+      <FileName>Coordinates.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAgAQAAAAAACAAgAAAAAAAAAIAACACAAAIAQABAA=</HashCode>
+      <FileName>Snake.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Food" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Food.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Type" Collapsed="true">
+    <Position X="3.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAEAAgACAAAAAAGAQIIQAQAAICAAI=</HashCode>
+      <FileName>Types.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

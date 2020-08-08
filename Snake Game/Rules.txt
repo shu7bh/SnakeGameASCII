@@ -1,0 +1,20 @@
+    ********************************************************************
+    *                                                                  *
+    *                              RULES                               *
+    *                              ~~~~~                               *
+    *                                                                  *
+    *       TO MOVE                                                    *
+    *                                                                  *
+    *                                 BE CLEAR OF WALLS EITHER         *
+    *       W -> UP                                                    *
+    *                                 IN THE MIDDLE OR ON THE          *
+    *                                                                  *
+    *       S -> DOWN                 EDGES.                           *
+    *                                                                  *
+    *                                 EAT THE FOOD - LETTERS -         *
+    *       A -> LEFT                                                  *
+    *                                 WHICH INCREASE YOUR POINTS       *
+    *                                                                  *
+    *       D -> RIGHT                AND THE LENGTH OF THE SNAKE      *
+    *                                                                  *
+    ********************************************************************
